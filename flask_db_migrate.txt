@@ -1,0 +1,1 @@
+  Generating /home/lucabrandolini/mysite/migrations/versions/ab671155739c_.py ... done
